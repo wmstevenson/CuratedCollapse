@@ -2,7 +2,7 @@
 This repository holds the codebase and results for our experiments with model collapse in Tabular Data. The results are presented in our paper;
 ```
 @article{Anonymous2026,
-  author = {Anonymous Author(s)},
+  author = {William Martin Stevenson, Anne Gerdes, Lukas Galke Poech, Anton Danholt Lautrup},
   title = {Curating the Collapse: How Sample-Level Auditing Accelerates Model Collapse in Synthesis of Tabular Data},
   year = {2026},
 }
