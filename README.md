@@ -1,10 +1,14 @@
 # Model collapse dynamics in Tabular Data
 This repository holds the codebase and results for our experiments with model collapse in Tabular Data. The results are presented in our paper;
 ```
-@article{Anonymous2026,
+@inproceedings{Stevenson2026,
   author = {William Martin Stevenson, Anne Gerdes, Lukas Galke Poech, Anton Danholt Lautrup},
   title = {Curating the Collapse: How Sample-Level Auditing Accelerates Model Collapse in Synthesis of Tabular Data},
+  booktitle = {Proceedings of the ninth AAAI/ACM Conference on AI, Ethics, and Society},
+  series = {{AIES} 2026},
+  address = {Malmö, Sweeden},
   year = {2026},
+  note = {[Accepted: 17-07-2026]},
 }
 ```
 Our results show how unchecked synthetic-data reuse can result in decreased output diversity in subsequent models and reduced downstream utility. We also observe and that aggressive post-hoc auditing (1) at best decreases diversity, and at worst does so while also accelerating the model collapse.
